@@ -2,27 +2,27 @@
 
 int main() {
     char operator;
-    double num1, num2;
+    double first , second;
 
     printf("Enter an operator (+, -, *, /): ");
     scanf("%c", &operator);
 
-    printf("Enter two numbers: ");
-    scanf("%lf %lf", &num1, &num2);
+    printf("Enter two numbers : ");
+    scanf("%lf %lf", &first, &second);
 
     switch (operator) {
         case '+':
-            printf("%.2lf + %.2lf = %.2lf\n", num1, num2, num1 + num2);
+            printf("%.2lf + %.2lf = %.2lf\n", first, second, first + second);
             break;
         case '-':
-            printf("%.2lf - %.2lf = %.2lf\n", num1, num2, num1 - num2);
+            printf("%.2lf - %.2lf = %.2lf\n", first, second, first - second);
             break;
         case '*':
-            printf("%.2lf * %.2lf = %.2lf\n", num1, num2, num1 * num2);
+            printf("%.2lf * %.2lf = %.2lf\n", first, second, first * second);
             break;
         case '/':
-            if (num2 != 0) {
-                printf("%.2lf / %.2lf = %.2lf\n", num1, num2, num1 / num2);
+            if (second != 0) {
+                printf("%.2lf / %.2lf = %.2lf\n", first, second, first / second );
             } else {
                 printf("Error: Division by zero is not allowed.\n");
             }
