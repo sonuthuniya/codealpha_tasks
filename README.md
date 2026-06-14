@@ -47,6 +47,11 @@ Enter two numbers : 25 8
 25.00 * 8.00 = 200.00
 
 --- 
+## Output Screen
+Below is a sample output of the calculator running in the terminal:
+
+![Calculator Output]calculator.PNG)
+---
 
 
 ## ⚡ Error Handling
