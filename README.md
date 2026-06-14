@@ -1,7 +1,7 @@
 # 🧮 Simple Calculator in C
 
 A beginner-friendly calculator program written in **C language**.  
-It performs four basic arithmetic operations: **Addition, Multiplication, and Division** with proper error handling.
+It performs four basic arithmetic operations: **Addition, Subtraction, Multiplication, and Division** with proper error handling.
 
 ---
 
