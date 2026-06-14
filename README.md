@@ -73,3 +73,16 @@ Error handling
 Formatted output with precision
 
 ---
+
+*👨‍💻 Author: Sonu Thuniya*
+
+📅 Internship Task – C PROGRAMMING 
+
+---
+
+## 🙏 Acknowledgement
+I would like to express my sincere gratitude to **Code Alpha** for providing me with the opportunity to work as an intern.  
+This internship has been a valuable learning experience, allowing me to strengthen my programming skills, gain practical exposure, and apply theoretical knowledge to real-world projects.  
+The guidance and support received during this internship have motivated me to continue improving and exploring new areas in software development.
+
+---
